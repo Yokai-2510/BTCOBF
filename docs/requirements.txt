@@ -1,0 +1,2 @@
+requests 
+delta-rest-client

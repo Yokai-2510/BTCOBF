@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+source/credentials.json
+
+assets.csv
